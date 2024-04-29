@@ -1,4 +1,6 @@
 Pizza Sales Analysis Dashboard
+
+
 Introduction: 
 Understanding the dynamics of pizza sales is crucial for success in the food industry. Leveraging the Navigator tool, we have developed a user-friendly dashboard aimed at analyzing online sales data across various regions of India.
 
@@ -13,5 +15,8 @@ Data Analysis: Thorough analysis of the cleaned data was conducted using Power B
 
 Visualization: Leveraging Power BI and the Navigator tool, we created visually appealing and informative dashboards. We presented the analyzed data clearly and intuitively, allowing users to interact and explore specific data points for deeper insights.
 
+
+
 Results: 
-By analyzing the data to identify underperforming and top-selling products, the dashboard contributed to a significant increase in sales by 30%. This improvement was achieved through the identification of products with low sales performance, allowing for targeted interventions to improve their marketing strategies or product offerings. Insights from the dashboard also facilitated the optimization of the product mix by focusing resources on promoting high-demand products while refining or discontinuing underperforming ones. Overall, the dashboard empowered stakeholders to make informed decisions about product development, pricing strategies, and promotional activities, leading to more effective sales initiatives.
+By analyzing the data to identify underperforming and top-selling products, the dashboard contributed to a significant increase in sales by 30%. This improvement was achieved through the identification of products with low sales performance, allowing for targeted interventions to improve their marketing strategies or product offerings. 
+Insights from the dashboard also facilitated the optimization of the product mix by focusing resources on promoting high-demand products while refining or discontinuing underperforming ones. Overall, the dashboard empowered stakeholders to make informed decisions about product development, pricing strategies, and promotional activities, leading to more effective sales initiatives.
